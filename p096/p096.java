@@ -3,7 +3,7 @@ import java.io.*;
 //Michael Rokas
 //May 16th 2019
 
-class p096 {
+class P096 {
   public static void main(String[] args) {
     try {
       File file = new File("inputs.txt"); 

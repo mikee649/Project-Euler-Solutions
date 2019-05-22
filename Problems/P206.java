@@ -1,5 +1,8 @@
 import java.util.regex.*;  
 
+//Michael Rokas
+//May 21st 2019
+
 class P206 {
 	public static void main(String[] args) {
 		long i = 1010101010;	//sqrt(1020304050607080900)

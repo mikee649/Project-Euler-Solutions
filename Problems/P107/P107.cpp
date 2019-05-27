@@ -3,6 +3,9 @@
 #include "Weighted_graph.h"
 using namespace std;
 
+//Michael Rokas
+//May 27th 2019
+
 int main() 
 {
     int total_edge_sum;
